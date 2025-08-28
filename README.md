@@ -11,3 +11,5 @@ Reconstructing deformable tissues is crucial for medical image computing and rob
 ## RPlane VS ForPlane in terms of rendering quality
 https://github.com/user-attachments/assets/d217406a-452f-47b1-8cf1-72cff32ac8e3
 
+## Acknowledgments
+The authors would like to express their sincere gratitude to Dr. Tong Lu for his valuable contributions in addressing the reviewers’ comments and improving the manuscript.
